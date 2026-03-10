@@ -8,7 +8,7 @@ __Membros do Grupo__
 
 - __Felipe__
 - __Hyago__
-- __William James__
+- __Eduardo Finetu__
 - __Augusto__
 - __Caio lima__
 
