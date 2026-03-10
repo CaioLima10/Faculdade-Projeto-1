@@ -1,7 +1,7 @@
 --- 
 
 Faculdade Anhaguera Projeto I
-Tema: Cartilha de Segurança Digital para Pequenas Empresas (LGPD)
+Tema:Cartilha de Segurança Digital para Pequenas Empresas (LGPD)
 ---
 
 __Membros do Grupo__
