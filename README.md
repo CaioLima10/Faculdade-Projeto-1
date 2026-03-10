@@ -10,8 +10,8 @@ __Membros do Grupo__
 - __Felipe__
 - __Hyago__
 - __Divinee__
-- __Eduardo Finetu__
 - __Augusto__
 - __Caio lima__
+- __Eduardo Finetu__
 
 ---
