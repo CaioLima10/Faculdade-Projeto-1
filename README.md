@@ -23,7 +23,7 @@ __Membros do Grupo__
 - __Divinee__
 - __Augusto Santos__
 - __Caio lima__
-- __Eduardo Finetu__
+- __Eduardo Finetu__ 414836749561
 
 
 **Professor**
