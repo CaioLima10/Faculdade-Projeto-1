@@ -18,12 +18,13 @@ Criar uma cartilha simples explicando práticas de segurança digital para peque
 
 __Membros do Grupo__
 
-- __Felipe__ 416143449561
-- __Hyago__ 426592849561
-- __Divinee__
-- __Augusto Santos__
-- __Caio lima__
-- __Eduardo Finetu__ 414836749561
+- __Felipe__ RA 416143449561
+- __Hyago__ RA 426592849561
+- __Divinee__ RA 41092115811
+- __Augusto Santos__ RA 426880349561
+- __Caio lima__ RA 427633449561
+- __Eduardo Finetu__ RA 414836749561
+- __Eduardo S__ RA 
 
 
 **Professor**
