@@ -3,6 +3,8 @@
 ---
 Tema:Cartilha de Segurança Digital para Pequenas Empresas (LGPD)
 ---
+![Feepik.com](imagens/cyber-security.png)
+___
 ## Objetivo
 Criar uma cartilha simples explicando práticas de segurança digital para pequenas empresas, com base na LGPD.
 
