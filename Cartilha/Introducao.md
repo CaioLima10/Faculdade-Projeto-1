@@ -21,7 +21,7 @@ Reforça-se ainda a dimensão ética e racional da Segurança Digital, evidencia
 A Segurança Digital pode ser considerada uma realidade social historicamente instituída, necessária para proporcionar estabilidade e confiança nas relações virtuais.
 
 A segurança digital sempre envolve o uso de senhas fortes, seguranças, atualizações constantes de software, antivírus atualizado e bons hábitos online. Mas existem outros perigos grandes, como os golpes na internet. Muitas vezes, ao clicar em um link malicioso, você pode baixar um cavalo de Troia ou um ransomware. Agora, com o uso de IA, os golpes ficaram ainda mais discretos e convincentes: fica difícil saber se é verdadeiro ou falso. Por isso, é essencial sempre tomar cuidado, pesquisar em sites confiáveis e verificar se algo é legítimo antes de clicar ou fornecer dados.
-
+___
 **1º Senhas fortes**
 - O uso das senhas fortes é uma das medidas mais importantes para garantir a segurança digital. Recomenda-se que as senhas tenham **pelo menos 12 caracteres**, combinando letras maiúsculas e minúsculas, números e simbolos.
 
@@ -33,7 +33,9 @@ ___
 - Por esse motivo, é recomendével evitar realizar **logins em bancos, e-mails ou serviços sensíveis** enquanto estiver conectado a essas redes. caso seja necessário utilizar Wi-Fi público, o ideial é usar uma **VPN confiável** para aumentar a proteção dodos.
 ___
 **3º Links duvidosos**
-- É onde mais pessoas caem em golpes. Os links podem vir por e-mail, mensagem de WhatsApp, SMS ou até posts nas redes sociais. Se parecer muito tentador (tipo “ganhe prêmio”, “sua conta foi bloqueada” ou “clique aqui pra ver”), desconfie. Nunca clique sem verificar o remetente, passe o mouse em cima do link (sem clicar) pra ver o endereço real, ou pesquise antes.
+- Grande parte dos golpes virtuais acontece por meio de links suspeitos enviados por **e-mail, mensagem de WhatsApp, SMS ou redes sociais**.
+
+- Mensagens que comprometem prêmios, informam bloqueio de conta ou solicitam confirmação urgente de dados devem ser analisadas com cuidado. Antes de clicar em qualquer link, é importante verificar o remetente, conferir o endereço real do site e, se necessário, pesquisar sobre a mensagem recebida.
 
 
 
