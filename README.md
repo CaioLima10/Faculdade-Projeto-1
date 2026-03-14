@@ -15,7 +15,7 @@ Criar uma cartilha simples explicando práticas de segurança digital para peque
 - Explicação da LGPD
 - Boas práticas para pequenas empresas
 - Exemplos de proteção de dados
-
+---
 __Membros do Grupo__
 
 - __Felipe__ RA 416143449561
