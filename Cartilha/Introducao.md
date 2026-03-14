@@ -37,7 +37,7 @@ ___
 
 - Mensagens que comprometem prêmios, informam bloqueio de conta ou solicitam confirmação urgente de dados devem ser analisadas com cuidado. Antes de clicar em qualquer link, é importante verificar o remetente, conferir o endereço real do site e, se necessário, pesquisar sobre a mensagem recebida.
 
-
+___
 
 
 
