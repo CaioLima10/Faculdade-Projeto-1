@@ -1,9 +1,7 @@
 --- 
  Faculdade Anhaguera Projeto I
 ---
-Tema:Cartilha de Segurança Digital para Pequenas Empresas (LGPD)
----
-![Feepik.com](imagens/cyber-security.png)
+**Tema:Cartilha de Segurança Digital para Pequenas Empresas (LGPD)**
 ___
 ## Objetivo
 Criar uma cartilha simples explicando práticas de segurança digital para pequenas empresas, com base na LGPD.
