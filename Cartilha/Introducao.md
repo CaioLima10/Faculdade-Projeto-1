@@ -1,6 +1,6 @@
 ___
 **INTRODUÇÃO À SEGURANÇA DIGITAL**
-___
+---
 
 A segurança digital refere-se ao conjunto de práticas, tecnologias e políticas destinadas a proteger informações, sistemas e redes contra acessos não autorizados, ataques ciberneticos e vazamento de dados. com o avanço da tecnologia e a crescente dependencia da internet para atividades pessoais, profissionais e financeiras, a proteção de dados tornou-se uma necessidade fundamental na sociedade conteporanêa.
 
@@ -37,8 +37,7 @@ ___
 
 - Mensagens que comprometem prêmios, informam bloqueio de conta ou solicitam confirmação urgente de dados devem ser analisadas com cuidado. Antes de clicar em qualquer link, é importante verificar o remetente, conferir o endereço real do site e, se necessário, pesquisar sobre a mensagem recebida.
 
-___
-
+---
 
 
 
