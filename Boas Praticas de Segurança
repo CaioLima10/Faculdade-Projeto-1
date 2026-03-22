@@ -1,0 +1,35 @@
+Boas práticas de segurança da informação
+
+A segurança da informação tem como objetivo proteger os dados contra acessos não autorizados, alterações e perdas, garantindo confidencialidade, integridade, disponibilidade e autenticidade.
+
+Para pequenas empresas, as principais práticas são:
+
+-Senhas fortes: Utilize combinações com letras maiúsculas, minúsculas, números e símbolos. Evite informações pessoais.
+-Não compartilhar senhas: Credenciais devem ser individuais e intransferíveis.
+-Autenticação multifator (MFA/2FA): Ative a verificação em duas etapas sempre que possível.
+-Gestor de senhas: Utilize ferramentas seguras para armazenar e gerenciar senhas.
+-Atualizações: Mantenha sistemas e softwares sempre atualizados para corrigir falhas de segurança.
+-Controle de acesso: Permita acesso apenas ao necessário para cada usuário (princípio do menor privilégio).
+-Treinamento da equipe: Oriente colaboradores sobre phishing e engenharia social.
+-Backups: Realize cópias de segurança automáticas e criptografadas.
+
+Backup (cópia de segurança)
+
+O backup é um recurso essencial para garantir a recuperação de dados em casos de falhas, ataques ou acidentes.
+
+Empresas que mantêm backups conseguem retomar suas atividades mais rapidamente após incidentes graves, pois seus dados podem ser restaurados.
+
+Boas práticas de backup:
+
+Realizar backups automáticos e frequentes
+Manter pelo menos duas cópias dos dados
+Armazenar em locais diferentes (ex: nuvem + dispositivo físico)
+Guardar cópias fora do ambiente principal da empresa
+Garantir que os backups estejam protegidos (criptografia)
+
+Com essas medidas, é possível reduzir significativamente os riscos e impactos de perda de dados.
+fontes
+
+-https://welcome.atlasgov.com/blog/ciberseguranca/boas-praticas-de-seguranca-da-informacao/
+-https://sebrae.com.br/Sebrae/Portal%20Sebrae/Arquivos/e-book_seguranca-da-informacao-na-pequena-empresa.pdf
+-https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes/guia-vf.pdf
