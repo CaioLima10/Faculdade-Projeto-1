@@ -1,34 +1,156 @@
-A Fragilidade do Código diante da Engenharia Social
+Entrega 1 — Problema, Objetivos e Escopo
+Introdução
 
-Como desenvolvedores, fomos treinados para focar em performance, escalabilidade e arquitetura. Porém, o cenário atual de cibersegurança no Brasil prova que o "bug" mais crítico não está no código, mas na interação humana. Este artigo analisa como as novas ameaças (IA, abuso de APIs e fraudes financeiras) estão forçando uma mudança no paradigma de desenvolvimento de sistemas.
-🛠️ O Abuso Técnico das APIs de Acessibilidade
-O popular "Golpe da Mão Fantasma" não é mágica; é uso indevido de recursos do SO.
-O Problema: Atacantes induzem o usuário a instalar APKs maliciosos que solicitam permissão ao AccessibilityService.
-O Impacto: Uma vez permitido, o software "lê" a tela e simula eventos de toque, ignorando autenticações visuais.
-ADS Insight: Precisamos aplicar o princípio do Privilégio Mínimo não só no banco de dados, mas na UI. Implementar detecções que diferenciem eventos de click orgânicos de comandos via script tornou-se obrigatório.
+Com o avanço da tecnologia e da digitalização dos pequenos negócios, aumentaram também os riscos relacionados à segurança digital. Empresas de pequeno porte, como padarias, salões de beleza e consultórios,
+frequentemente utilizam computadores, celulares, redes Wi-Fi e sistemas online sem possuir medidas adequadas de proteção de dados.
 
-Deepfakes e a Queda da Biometria Tradicional 
+Nos últimos anos, os golpes virtuais evoluíram significativamente, tornando-se mais sofisticados e difíceis de identificar.
+Ataques como phishing, engenharia social, ransomware, clonagem de WhatsApp e vazamento de dados afetam diretamente pequenas empresas, causando prejuízos financeiros, perda de informações e danos à reputação.
 
-A verificação de identidade (KYC) baseada em fotos ou vídeos simples faliu.
-IA Adversária: O uso de redes neurais para gerar rostos em tempo real em chamadas de vídeo já é realidade.
-Solução Técnica: A implementação de Liveness Detection avançada (pedir movimentos aleatórios ou analisar a profundidade da malha facial) e camadas de telemetria comportamental (analisar o padrão de digitação e geolocalização do IP).
- Pix e o MED 2.0: Corrida contra a Latência 
+Além disso, a Lei Geral de Proteção de Dados (LGPD) trouxe novas responsabilidades para empresas que armazenam informações de clientes, exigindo maior cuidado com privacidade e segurança digital.
 
-O Pix trouxe agilidade, mas também o desafio de rastrear o capital pulverizado.
-MED 2.0: O Banco Central evoluiu o Mecanismo Especial de Devolução para permitir o bloqueio em múltiplas camadas (contas laranjas).
-ADS Insight: Para nós, o desafio é infraestrutura. Precisamos de APIs com latência zero e bancos de dados de grafos (como Neo4j) para mapear redes de fraude em tempo real antes que o saldo seja sacado.
+Diante desse cenário, o presente projeto tem como foco a criação de uma cartilha de conscientização sobre tendências e novas ameaças digitais,
+apresentando orientações práticas e acessíveis para pequenos negócios se protegerem contra golpes virtuais atuais.
 
-Segurança "Secure by Design" 
+Problema de Pesquisa
 
-Não existe sistema 100% seguro se o fator humano for ignorado.
-Software Composition Analysis (SCA): Auditoria constante de bibliotecas de terceiros para evitar ataques na Supply Chain.
-Zero Trust: Tratar toda requisição como suspeita, mesmo após o login.
-O Papel do Dev: Projetar fluxos que protejam o usuário de si mesmo, criando barreiras de fricção deliberada em transações críticas.
+Como pequenas empresas podem identificar e se proteger contra as novas ameaças e golpes digitais que evoluem constantemente no ambiente virtual?
 
-Referências para Estudo
+Objetivo Geral
 
-FEBRABAN – Antifraude: Dados sobre tendências de golpes bancários no Brasil.
-OWASP API Security Top 10: Referência para proteção de endpoints e controle de acesso.
-Banco Central do Brasil - MED: Documentação técnica sobre segurança no ecossistema Pix.
-Securelist (Kaspersky): Boletins técnicos sobre a evolução de RATs e malwares financeiros.
-NIST Digital Identity Guidelines: Padrões globais para autenticação e prova de identidade digital.
+Desenvolver uma cartilha de segurança digital voltada para pequenas empresas, abordando tendências atuais de golpes virtuais, ameaças digitais recentes e práticas básicas de proteção de dados conforme princípios da LGPD.
+
+Objetivos Específicos
+Identificar os golpes digitais mais recentes que afetam pequenas empresas.
+Explicar como as ameaças virtuais evoluem com o uso de engenharia social e tecnologias digitais.
+Propor medidas preventivas simples e acessíveis para reduzir riscos de ataques e vazamentos de dados.
+Escopo do Projeto
+O que o projeto inclui
+Pesquisa sobre ameaças digitais recentes;
+Explicação dos principais golpes virtuais;
+Orientações preventivas para pequenas empresas;
+Introdução básica à LGPD;
+Desenvolvimento de cartilha educativa em PDF;
+Plano de ação simplificado para implementação das recomendações.
+O que o projeto não inclui
+Desenvolvimento de aplicativos ou sistemas;
+Implementação real de infraestrutura de segurança;
+Monitoramento de redes ou servidores;
+Auditoria profissional de segurança da informação.
+
+Entrega 2 — Fundamentação Teórica e Requisitos
+Fundamentação Teórica
+Segurança Digital
+
+A segurança digital consiste em práticas e mecanismos utilizados para proteger sistemas, dispositivos e informações contra acessos não autorizados, ataques virtuais e vazamentos de dados.
+Seu objetivo principal é garantir a confidencialidade, integridade e disponibilidade das informações.
+Pequenas empresas geralmente são alvos vulneráveis devido à ausência de políticas de segurança, senhas fracas e falta de treinamento dos funcionários.
+
+Engenharia Social
+A engenharia social é uma técnica utilizada por criminosos virtuais para manipular pessoas e obter informações confidenciais.
+Em vez de explorar falhas técnicas, o atacante explora comportamentos humanos, utilizando mensagens falsas, urgência e confiança para enganar vítimas.
+Golpes por e-mail, SMS, WhatsApp e ligações falsas são exemplos comuns dessa prática.
+
+Phishing
+O phishing é um tipo de golpe digital que busca roubar informações pessoais, bancárias ou corporativas através de links falsos, páginas clonadas e mensagens fraudulentas.
+Com o avanço da tecnologia, ataques de phishing tornaram-se mais sofisticados, utilizando inteligência artificial, perfis falsos e comunicação personalizada.
+
+LGPD
+A Lei Geral de Proteção de Dados (LGPD) estabelece regras para coleta, armazenamento e tratamento de dados pessoais no Brasil.
+Pequenas empresas também devem seguir princípios básicos da lei, protegendo dados de clientes e evitando vazamentos de informações.
+A adoção de medidas simples de segurança ajuda na adequação inicial à LGPD.
+
+Fontes Utilizadas
+BRASIL. Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018).
+CERT.br — Cartilha de Segurança para Internet.
+Kaspersky — Relatórios sobre ameaças digitais e phishing.
+
+ENTREGA 3 — Projeto Técnico
+3 METODOLOGIA
+3.1 Tipo de Pesquisa
+
+A pesquisa será bibliográfica e descritiva, utilizando artigos, sites especializados, materiais acadêmicos e conteúdos relacionados à segurança digital.
+
+3.2 Etapas do Projeto
+Pesquisa sobre ameaças digitais;
+Seleção dos principais golpes recentes;
+Desenvolvimento da cartilha;
+Organização das informações;
+Produção do relatório ABNT.
+3.3 Ferramentas e Tecnologias
+Google Acadêmico;
+GitHub;
+Word;
+Canva;
+Navegador Web.
+
+LISTA DE COMPONENTES
+Computador;
+Editor de texto;
+Navegador;
+GitHub;
+Fontes de pesquisa;
+Arquivo PDF.
+
+ENTREGA 4 — Implementação Parcial e Evidências
+4 DESENVOLVIMENTO
+
+Desenvolvimento da Cartilha
+
+Nesta etapa do projeto foi iniciada a construção da cartilha de segurança digital voltada para pequenas empresas. O conteúdo foi organizado de forma simples e objetiva, buscando facilitar o entendimento de usuários sem conhecimento técnico avançado.
+
+A cartilha foi dividida em tópicos relacionados às principais ameaças digitais atuais, com foco em tendências recentes de golpes virtuais e métodos utilizados por criminosos digitais.
+
+Os principais temas desenvolvidos foram:
+
+Segurança digital básica;
+Phishing;
+Clonagem de WhatsApp;
+Golpes com inteligência artificial;
+Ransomware;
+QR Code falso;
+Boas práticas de proteção de dados;
+Introdução à LGPD.
+
+Organização das Informações
+
+As informações foram organizadas em linguagem acessível, utilizando exemplos simples e orientações práticas para pequenas empresas.
+
+Também foi iniciada a criação do design da cartilha, separando os conteúdos em:
+
+Títulos;
+Subtítulos;
+Tópicos explicativos;
+Dicas preventivas;
+Alertas de segurança.
+
+O objetivo foi produzir um material educativo claro e visualmente organizado.
+
+EVIDÊNCIAS
+Evidências Produzidas
+Pesquisas realizadas em sites especializados;
+Organização dos tópicos da cartilha;
+Estrutura inicial do relatório ABNT;
+Desenvolvimento do conteúdo textual;
+Separação dos temas por categorias;
+Coleta de informações sobre golpes recentes.
+
+RESULTADOS PARCIAIS
+
+Até o momento, foi possível identificar que:
+
+Pequenas empresas são alvos frequentes de golpes digitais;
+Muitos ataques utilizam engenharia social;
+A falta de conhecimento em segurança digital aumenta os riscos;
+Medidas simples de proteção podem reduzir significativamente os ataques.
+
+Também foi observado que os golpes digitais estão cada vez mais sofisticados devido ao uso de inteligência artificial e ferramentas automatizadas.
+
+DIFICULDADES ENCONTRADAS
+
+Durante o desenvolvimento do projeto, algumas dificuldades foram identificadas:
+
+Grande quantidade de golpes digitais diferentes;
+Atualização constante das ameaças virtuais;
+Necessidade de simplificar termos técnicos;
+Seleção de fontes confiáveis para pesquisa.
