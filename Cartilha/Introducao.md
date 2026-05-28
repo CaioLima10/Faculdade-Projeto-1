@@ -38,6 +38,30 @@ ___
 - Mensagens que comprometem prêmios, informam bloqueio de conta ou solicitam confirmação urgente de dados devem ser analisadas com cuidado. Antes de clicar em qualquer link, é importante verificar o remetente, conferir o endereço real do site e, se necessário, pesquisar sobre a mensagem recebida.
 
 ---
+Segurança em Redes Sociais
+
+1. A Chave Mestra: Autenticação de Dois Fatores (2FA)
+Não confie apenas na sua senha. Se um hacker descobri-la, a 2FA é o que impede o acesso.
+ Dica de Ouro: Evite usar a verificação por SMS (o número pode ser clonado). Prefira aplicativos como Google Authenticator ou Microsoft Authenticator.
+ Onde ativar: Geralmente em Configurações > Segurança > Autenticação de dois fatores.
+
+2. O Perigo do "Oversharing" (Exposição Excessiva)
+Informações aparentemente bobas são "ouro" para criminosos que praticam engenharia social.
+ Evite Check-ins em tempo real: Poste a foto do restaurante ou da viagem somente quando já tiver saído de lá.
+ Cuidado com os fundos: Placas de carro, crachás de trabalho ou a fachada da sua casa em fotos podem revelar sua rotina e endereços.
+ Círculo Próximo: Use a função "Amigos Próximos" ou "Close Friends" para conteúdos mais íntimos.
+
+3. Olho Vivo nos Golpes (Phishing e Engenharia Social)
+Os criminosos raramente "invadem" o sistema; eles convencem você a entregar a chave.
+ DMs Suspeitas: Se uma marca ou até um amigo mandar um link estranho pedindo um "código que chegou no seu celular", não envie. É o código de acesso ao seu WhatsApp ou Instagram.
+ Sorteios Falsos: Se você ganhou um sorteio que não participou, desconfie. Nunca clique em links para "resgatar prêmios".
+ Verificação de Perfil: Antes de interagir com lojas, verifique se o perfil tem selo de autenticidade, comentários bloqueados ou se foi criado recentemente.
+
+4. Checklist de Privacidade Relâmpago
+Tire 5 minutos para revisar essas opções agora:
+ [ ] Perfil Privado: Garante que apenas quem você conhece veja suas fotos.
+ [ ] Menções e Marcações: Configure para que você precise aprovar antes de uma foto aparecer no seu perfil.
+ [ ] E-mail de Recuperação: Verifique se o e-mail cadastrado na rede social ainda é acessível e se ele também possui uma senha forte.
 
 
 
