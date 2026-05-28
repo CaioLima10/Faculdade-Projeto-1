@@ -15,10 +15,6 @@ Portanto, a integração entre o plano de ação e a tabela de risco é fundamen
 
 **Plano de Ação - Entrega 1**
 
-**Responsável pelo Documento: Augusto**
-
-**Projeto: Cartilha e Relatório de Segurança Digital**
-
 ---
 
 **Objetivo da Entrega 1**
