@@ -11,17 +11,24 @@ A tabela de risco geralmente é composta por itens como: descrição do risco, p
 
 Portanto, a integração entre o plano de ação e a tabela de risco é fundamental, pois enquanto o plano organiza o que deve ser feito, a análise de risco prepara a equipe para possíveis imprevistos, tornando o processo mais seguro, eficiente e controlado.
 
+---
 
-**Plano de Ação - Entrega 1
+**Plano de Ação - Entrega 1**
 
-Responsável pelo Documento: Augusto 
+**Responsável pelo Documento: Augusto**
 
-Projeto: Cartilha e Relatório de Segurança Digital**
+**Projeto: Cartilha e Relatório de Segurança Digital**
+
+---
 
 **Objetivo da Entrega 1**
+
 Estabelecer as bases teóricas do projeto através de pesquisas aprofundadas sobre ameaças digitais, definir as melhores práticas de proteção para o usuário comum e organizar a estrutura acadêmica e visual do trabalho.
 
+---
+
 **Divisão de Tarefas (Rodízio - Quinze 1)**
+
 Conforme o planejamento estratégico do grupo, ficou definida a seguinte escala de responsabilidades para os primeiros 15 dias do projeto:
  Pessoa 1: Introdução + explicação geral sobre o conceito de segurança digital.
  Pessoa 2: Pesquisa aprofundada sobre ameaças virtuais (Mapeamento de Phishing, Malware e Golpes comuns).
@@ -30,13 +37,19 @@ Conforme o planejamento estratégico do grupo, ficou definida a seguinte escala 
  Pessoa 5: Redação da estrutura do Relatório Acadêmico (Alinhamento da introdução, metodologia científica e conclusão formal).
  Pessoa 6: Desenvolvimento das ilustrações, identidade visual e organização estética da cartilha.
 
+---
+
 **Diretriz de Continuidade (Atenção)**
+
  Nota de Atualização: Conforme a dinâmica estabelecida pelo grupo, haverá rodízio compulsório de tarefas a cada 15 dias. Os insumos coletados nesta Entrega 1 por cada integrante servirão de base para a próxima pessoa que assumir a respectiva frente na próxima quinzena.
 
+---
 
 **Próximos Passos**
+
 1 Consolidação dos textos de pesquisa na pasta de ⁠📁 evidencias⁠.
 2 Repasse dos conteúdos textuais para a Pessoa 6 iniciar a diagramação visual.
 3 Alinhamento do grupo para a troca de papéis da próxima quinzena.
 
+---
 
