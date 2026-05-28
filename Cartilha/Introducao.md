@@ -46,8 +46,10 @@ Não confie apenas na sua senha. Se um hacker descobri-la, a 2FA é o que impede
 Dica de Ouro: Evite usar a verificação por SMS (o número pode ser clonado). Prefira aplicativos como Google Authenticator ou Microsoft Authenticator.
  
 Onde ativar: Geralmente em Configurações > Segurança > Autenticação de dois fatores.
+
 ---
 2. O Perigo do "Oversharing" (Exposição Excessiva)
+
 Informações aparentemente bobas são "ouro" para criminosos que praticam engenharia social.
  
 Evite Check-ins em tempo real: Poste a foto do restaurante ou da viagem somente quando já tiver saído de lá.
@@ -61,9 +63,12 @@ Os criminosos raramente "invadem" o sistema; eles convencem você a entregar a c
 
  DMs Suspeitas: Se uma marca ou até um amigo mandar um link estranho pedindo um "código que chegou no seu celular", não envie. É o código de acesso ao seu WhatsApp ou Instagram.
 
+
  Sorteios Falsos: Se você ganhou um sorteio que não participou, desconfie. Nunca clique em links para "resgatar prêmios".
 
+
  Verificação de Perfil: Antes de interagir com lojas, verifique se o perfil tem selo de autenticidade, comentários bloqueados ou se foi criado recentemente.
+
 ---
 4. Checklist de Privacidade Relâmpago
 Tire 5 minutos para revisar essas opções agora:
@@ -73,6 +78,7 @@ Tire 5 minutos para revisar essas opções agora:
  [ ] Menções e Marcações: Configure para que você precise aprovar antes de uma foto aparecer no seu perfil.
 
  [ ] E-mail de Recuperação: Verifique se o e-mail cadastrado na rede social ainda é acessível e se ele também possui uma senha forte.
+
 ---
 
 
