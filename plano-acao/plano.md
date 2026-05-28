@@ -49,11 +49,11 @@ Conforme o planejamento estratégico do grupo, ficou definida a seguinte escala 
 
 **Próximos Passos**
 
-1 Consolidação dos textos de pesquisa na pasta de ⁠📁 evidencias⁠.
+1. Consolidação dos textos de pesquisa na pasta de ⁠📁 evidencias⁠.
 
-2 Repasse dos conteúdos textuais para a Pessoa 6 iniciar a diagramação visual.
+2. Repasse dos conteúdos textuais para a Pessoa 6 iniciar a diagramação visual.
 
-3 Alinhamento do grupo para a troca de papéis da próxima quinzena.
+3. Alinhamento do grupo para a troca de papéis da próxima quinzena.
 
 ---
 
