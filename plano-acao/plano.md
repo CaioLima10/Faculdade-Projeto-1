@@ -26,11 +26,17 @@ Estabelecer as bases teóricas do projeto através de pesquisas aprofundadas sob
 **Divisão de Tarefas (Rodízio - Quinze 1)**
 
 Conforme o planejamento estratégico do grupo, ficou definida a seguinte escala de responsabilidades para os primeiros 15 dias do projeto:
+
  Pessoa 1: Introdução + explicação geral sobre o conceito de segurança digital.
+
  Pessoa 2: Pesquisa aprofundada sobre ameaças virtuais (Mapeamento de Phishing, Malware e Golpes comuns).
+
  Pessoa 3: Levantamento de boas práticas de segurança (Gestão de senhas, rotinas de backup e importância das atualizações).
+
  Pessoa 4: Elaboração deste Plano de Ação e construção da Tabela de Gestão de Riscos do projeto.
+
  Pessoa 5: Redação da estrutura do Relatório Acadêmico (Alinhamento da introdução, metodologia científica e conclusão formal).
+
  Pessoa 6: Desenvolvimento das ilustrações, identidade visual e organização estética da cartilha.
 
 ---
@@ -44,7 +50,9 @@ Conforme o planejamento estratégico do grupo, ficou definida a seguinte escala 
 **Próximos Passos**
 
 1 Consolidação dos textos de pesquisa na pasta de ⁠📁 evidencias⁠.
+
 2 Repasse dos conteúdos textuais para a Pessoa 6 iniciar a diagramação visual.
+
 3 Alinhamento do grupo para a troca de papéis da próxima quinzena.
 
 ---
